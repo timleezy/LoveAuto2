@@ -4,7 +4,7 @@
  ---------------------------------------------------------------------- */
  
 // Enter your email address
-$your_email_address = 'your_email_address';
+$your_email_address = 'timleezy@gmail.com';
 
 
 /* Instagram Feed
